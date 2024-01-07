@@ -1,9 +1,9 @@
 # Getting Started with Create React App
 
-DEPLOY :
-step 1. npm run build
-step 2. npm i -g serve
-step 3: serve -s build -p 8000
+# DEPLOY :
+#step 1. npm run build
+#step 2. npm i -g serve
+#step 3: serve -s build -p 8000
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
